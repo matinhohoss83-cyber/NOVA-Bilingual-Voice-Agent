@@ -1,0 +1,10 @@
+﻿openai
+openai-agents[voice]
+python-dotenv
+sounddevice
+vosk
+selenium
+pygame
+fastapi
+uvicorn
+websockets

@@ -1,0 +1,10 @@
+﻿.env
+.venv/
+MODELS/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+memory.json
+farid-test.mp3
+NOVA-static.zip
